@@ -5,4 +5,4 @@
 
 ## Önemli
 - Botunuzu eklerken application.commands ve bot scope'u mutlaka açık olmalıdır.
-![XD](https://jalix.please-end.me/5e39QNCQq)
+![XD](https://cdn.discordapp.com/attachments/903322501633966100/903518199360929852/5e39QNCQq.png)
